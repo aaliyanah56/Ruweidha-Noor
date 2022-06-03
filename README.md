@@ -2,17 +2,17 @@ README.md
 
 Hi there, I'm Ruweidha Noor 👋
 
--🔭 I’m currently working on python language
+.🔭 I’m currently working on python language
 
--🌱 I’m currently learning web development
+.🌱 I’m currently learning web development
 
--👯 I’m looking to collaborate on a front-end project
+.👯 I’m looking to collaborate on a front-end project
 
--💬 Ask me about anything
+.💬 Ask me about anything
 
--📫 How to reach me: email me @ okoaspeedsaver@gmail.com
+.📫 How to reach me: email me @ okoaspeedsaver@gmail.com
 
--🌱 I’m addicted to learning and growing every day
+.🌱 I’m addicted to learning and growing every day
 
 languages and tools
 
@@ -20,10 +20,7 @@ languages and tools
 
 ![image](https://user-images.githubusercontent.com/71156452/162218718-f6725e6e-2234-4bf3-95b7-7374c3612cfb.png)
 
-[![Ruweidha's github stats](https://github-readme-stats.vercel.app/api?username=Anisah-Omar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruweidha's github stats](https://github-readme-stats.vercel.app/api?username=aaliyanah56&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<<<<<<< HEAD
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisah-Omar)](https://github.com/Ruweidha-Noor/github-readme-stats)
-=======
-Top Langs
->>>>>>> d0db086549f67e0a45caffba729583c2144c7311
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanah56)](https://github.com/aaliyanah56/github-readme-stats)
